@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Linda MacDonald, SVG filter version: 6.6.0.0-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="59.611pt" height="52.119pt" viewBox="39 -54.369 59.611 52.119">
+ <defs>
+	</defs>
+ <g id="Layer 1" transform="scale(1 -1)">
+  <path d="M 58.702,39.519 L 39,2.25 L 77.74,2.25 L 58.702,39.519 Z" fill="#00017f" stroke-linejoin="miter" stroke="none" stroke-width="0.309" marker-start="none" marker-end="none"/>
+  <path d="M 67.564,2.25 L 82.042,29.636 C 82.46,30.427 83.594,30.43 84.015,29.639 L 98.611,2.25 L 67.564,2.25 Z" stroke-linejoin="miter" stroke="none" stroke-width="0.309" fill="#4eaead" marker-start="none" marker-end="none"/>
+  <path d="M 82.499,49.288 C 82.499,46.482 80.225,44.208 77.419,44.208 C 74.613,44.208 72.338,46.482 72.338,49.288 C 72.338,52.094 74.613,54.369 77.419,54.369 C 80.225,54.369 82.499,52.094 82.499,49.288 Z" stroke-linejoin="miter" stroke="none" stroke-width="0.309" fill="#e5593b" marker-start="none" marker-end="none"/>
+ </g>
+ <g id="Imported Layer 1" transform="scale(1 -1)"/>
+ <g id="Layer 2" transform="scale(1 -1)"/>
+</svg>
